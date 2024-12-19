@@ -4,7 +4,6 @@ This project implements a CNN model for CIFAR10 image classification using PyTor
 
 ## Project Structure
 
-```
 ├── Models.py # Contains all model architectures
 ├── train.py # Training script with data loading and training loops
 ├── data/ # Directory for MNIST dataset (auto-downloaded)
